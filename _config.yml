@@ -1,7 +1,8 @@
-# Everything Review — Jekyll + Chirpy
-# Built and deployed with GitHub Pages Actions
+# The Site Configuration
 
+# Import the Chirpy theme
 theme: jekyll-theme-chirpy
+
 lang: en
 timezone: Asia/Kuala_Lumpur
 
@@ -41,7 +42,7 @@ pwa:
   enabled: true
   cache:
     enabled: true
-    deny_paths: []
+    deny_paths:
 
 paginate: 10
 
