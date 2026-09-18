@@ -1,6 +1,6 @@
 ---
 title: "Resident Evil (2026) Review: Bryan's One Very Bad Night"
-date: 2026-09-19 07:45:00 +0800
+date: 2026-09-17 23:30:00 +0800
 categories: [Movies]
 tags: [resident-evil, horror, movies, movie-review, video-game-adaptation]
 description: "My spoiler-filled thoughts after watching Resident Evil (2026), from Bryan's organ delivery to that brutal ending."
@@ -18,7 +18,7 @@ The funny thing is, I wasn't supposed to be watching it that night. My sister wa
 
 Honestly, after watching it, I'm quite glad I did.
 
-The 2026 film is directed by **Zach Cregger** and stars **Austin Abrams as Bryan**, a medical courier caught in the middle of a nightmare in Raccoon City. Sony describes it as an all-new story within the *Resident Evil* franchise rather than another retelling of one of the games. citeturn2search0
+The 2026 film is directed by **Zach Cregger** and stars **Austin Abrams as Bryan**, a medical courier caught in the middle of a nightmare in Raccoon City. Sony describes it as an all-new story within the *Resident Evil* franchise rather than another retelling of one of the games.
 
 And that is probably the thing I liked most about it: it feels connected to *Resident Evil*, but it isn't simply trying to copy a game story.
 
@@ -34,9 +34,23 @@ It made the hospital feel like an actual place rather than just a movie set wait
 
 Then Bryan gets another delivery job, and that's when everything starts going horribly wrong.
 
-![Bryan carrying the medical package](https://img.4gamers.com.tw/ckfinder-th/image2/auto/2026-08/Resident_Evil_Movie_2026-260825-225400.png?versionId=r3t5QgG_yiU0pvedj9RZyBTqbkKLNalw)
+![Bryan in the snowy streets](https://www.hindustantimes.com/ht-img/img/2026/04/30/cropped/16-9/resident_evil_1777568643210_1777568643462.jpg)
+
+*Bryan carrying the medical package through the snow.*
+
+![Bryan looks battered after the night goes wrong](https://pbs.twimg.com/media/HF1dM42asAECduM.jpg)
+
+*Bryan has definitely seen better days.*
+
+![Bryan running toward an overturned car](https://nofilmschool.com/media-library/austin-abrams-as-bryan-running-toward-an-overturned-car-in-resident-evil-2026.jpg?id=66687888&quality=50&width=800)
+
+*One of the film's cold, blue-lit survival moments.*
 
 ## The camera made me nervous
+
+![Bryan surrounded by the snowy night](https://www.soyuz.ru/public/uploads/files/2/7648923/202510051125174fb12d7d68.jpg)
+
+*Another look at Bryan in the middle of the nightmare.*
 
 One thing I started noticing was how the camera sometimes points **straight ahead without warning me what might be coming**.
 
@@ -66,7 +80,7 @@ I actually felt proud of him at that moment.
 
 It sounds silly, but after watching this guy struggle for so long, seeing him finally understand how to use the environment felt like watching a player figure out a puzzle.
 
-That is one of the movie's strengths. The film has been described by critics as using a game-like structure, with Bryan moving through different danger zones almost like separate missions. citeturn0search2turn0search5
+That is one of the movie's strengths. The film has been described by critics as using a game-like structure, with Bryan moving through different danger zones almost like separate missions.
 
 ## It feels like Resident Evil without retelling Resident Evil
 
@@ -82,7 +96,7 @@ Instead, we follow Bryan.
 
 That makes the story feel new while still giving me the feeling that I'm inside the *Resident Evil* universe.
 
-Sony itself describes the movie as an **all-new story**, and that approach worked for me because I wasn't constantly waiting for the film to recreate a famous game scene. citeturn2search0
+Sony itself describes the movie as an **all-new story**, and that approach worked for me because I wasn't constantly waiting for the film to recreate a famous game scene.
 
 ## The infected girl scene actually got to me
 
@@ -130,7 +144,7 @@ Nope.
 
 Bryan doesn't tell the scientists how badly infected he is, and by the time they are close to completing the cure, he has already lost too much control.
 
-He transforms, kills the people who are trying to save him, and the cure ends up falling away during the chaos. The film leaves its ultimate fate uncertain. citeturn1search0turn1search2
+He transforms, kills the people who are trying to save him, and the cure ends up falling away during the chaos. The film leaves its ultimate fate uncertain.
 
 That was quite sad to watch.
 
@@ -189,4 +203,4 @@ This time, Bryan just never got his safe room.
 - **My viewing:** 17 September 2026, around 7:45 PM
 - **My verdict:** I liked it
 
-Sony lists the film as a 2026 horror movie directed by Zach Cregger, written by Cregger and Shay Hatten, with Austin Abrams, Zach Cherry, Kali Reis and Paul Walter Hauser among the cast. citeturn2search0
+Sony lists the film as a 2026 horror movie directed by Zach Cregger, written by Cregger and Shay Hatten, with Austin Abrams, Zach Cherry, Kali Reis and Paul Walter Hauser among the cast.
