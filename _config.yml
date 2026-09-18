@@ -1,4 +1,5 @@
 # Everything Review — Jekyll + Chirpy
+# Built and deployed with GitHub Pages Actions
 
 theme: jekyll-theme-chirpy
 lang: en
