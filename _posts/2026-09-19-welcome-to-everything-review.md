@@ -3,7 +3,10 @@ title: "Welcome to Everything Review"
 date: 2026-09-19 00:00:00 +0800
 categories: [Meta]
 tags: [welcome, reviews, everything]
-pin: true\nimage:\n  path: /assets/img/everything-review-thumbnail.svg\n  alt: "Everything Review"
+pin: true
+image:
+  path: /assets/img/everything-review-thumbnail.svg
+  alt: "Everything Review"
 ---
 
 Welcome to **Everything Review**.
