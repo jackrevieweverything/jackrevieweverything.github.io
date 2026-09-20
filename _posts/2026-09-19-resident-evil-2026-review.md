@@ -3,7 +3,7 @@ title: "Resident Evil (2026) Review: Bryan's One Very Bad Night"
 date: 2026-09-17 23:30:00 +0800
 categories: [Movies]
 tags: [resident-evil, horror, movies, movie-review, video-game-adaptation]
-description: "My spoiler-filled thoughts after watching Resident Evil (2026), from Bryan's organ delivery to that brutal ending."
+description: "My spoiler-filled thoughts after watching Resident Evil (2026), from Bryan's organ delivery to that brutal ending."\nimage:\n  path: https://d9s3e2ooa0od7.cloudfront.net/assets/resident-evil/4569e7e0-a5b5-4b5b-84fc-2c39ede8ac67/4569e7e0-a5b5-4b5b-84fc-2c39ede8ac67.jpg\n  alt: "Resident Evil (2026) poster"
 ---
 
 > **⚠️ SPOILERS AHEAD:** This review discusses major plot points and the ending of *Resident Evil (2026)*.
