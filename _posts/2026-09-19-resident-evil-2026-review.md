@@ -36,7 +36,7 @@ Then Bryan gets another delivery job, and that's when everything starts going ho
 
 ![Bryan in the snowy streets](https://www.hindustantimes.com/ht-img/img/2026/04/30/cropped/16-9/resident_evil_1777568643210_1777568643462.jpg)
 
-*Bryan carrying the medical package through the snow.*
+*Quick correction: this image is actually Austin Abrams in* ***Weapons (2025)***, *not* ***Resident Evil (2026)***. *I included it while looking for images of Abrams, but it belongs to his other movie.*
 
 ![Bryan looks battered after the night goes wrong](https://pbs.twimg.com/media/HF1dM42asAECduM.jpg)
 
@@ -44,7 +44,7 @@ Then Bryan gets another delivery job, and that's when everything starts going ho
 
 ![Bryan running toward an overturned car](https://nofilmschool.com/media-library/austin-abrams-as-bryan-running-toward-an-overturned-car-in-resident-evil-2026.jpg?id=66687888&quality=50&width=800)
 
-*One of the film's cold, blue-lit survival moments.*
+*Another correction: this is also Austin Abrams in* ***Weapons (2025)***, *rather than a scene from* ***Resident Evil (2026)***. *The image fits the survival mood, but I don't want to pretend it is a Resident Evil still.*
 
 ## The camera made me nervous
 
